@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YoungKamilson
-- 👀 I’m interested in game coding (UE CPP and BP), websites programming etc.
-- 🌱 I’m currently learning CPP in UE5 an web development.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontent using Vue.js, React.js, Nuxt.js and Next.js
+- 🌱 I’m currently learning advanced frontend web development.
 - 📫 You can reach mi via e-mail: lukuku001@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YoungKamilson
+- 👋 Hi, I’m Kamil Kubiczek, polish web developer.
 - 👀 I’m frontend dev. I use Vue.js, Nuxt 3, Nuxt ecosystem.
 - Also I know React.js, but I don't prefer it. Using React me and my team created https://zsz.olesnica.pl/.
 - 🌱 I’m currently learning Rust.

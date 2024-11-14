@@ -6,6 +6,7 @@
 
 >  Portfolio: https://kamil-kubiczek.vercel.app
 
+> ❓Status: ***Looking for job and opened for freelance projects***
 
 
 
@@ -14,10 +15,7 @@
 I am experienced developer with a focus on modern frontend and backend technologies. Skilled in Vue, Nuxt, React, TRPC, Nitro.js, BaaS, DevOps and more. Dedicated to delivering high-quality, efficient, and scalable web solutions.
 Somebody committed to writing clean, well organized, maintainable and efficient code. Constantly learning and building side projects to explore new technologies and stay up to date with industry. Currently a high school student specializing in IT, having successfully passed the INF-03 exam. 
 
-# 🫵🏻 Hey, you! Wanna contact me? 
-
-❓Status: ***Looking for job and opened for freelance projects***
-
+# Wanna contact me? 
 📫 You can reach mi via e-mail: <a href="mailto:kamil.kubiczek7@gmail.com">kamil.kubiczek7@gmail.com</a>
 
 

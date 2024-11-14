@@ -1,9 +1,14 @@
-## Hey, I’m **Kamil Kubiczek**
+![Profile baner](https://github.com/user-attachments/assets/a82d36d1-c922-4ff6-aec4-2b127645f24f)
+
 > Passionate **fullstack web developer** with 3+ years of experience. 
 
 > One of authors of https://zsz.olesnica.pl/
 
->  Portfolio: https://kamil-kubiczek.vercel.app/
+>  Portfolio: https://kamil-kubiczek.vercel.app
+
+
+
+
 
 # Few words about me
 I am experienced developer with a focus on modern frontend and backend technologies. Skilled in Vue, Nuxt, React, TRPC, Nitro.js, BaaS, DevOps and more. Dedicated to delivering high-quality, efficient, and scalable web solutions.

@@ -37,7 +37,7 @@ Committed to writing clean, well organized, maintainable and efficient code. Con
 <a href="https://doc.rust-lang.org/book/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
 <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <br>
-⭐⭐⭐⭐
+⭐⭐⭐
 
 <br>
 

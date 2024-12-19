@@ -28,22 +28,12 @@ Committed to writing clean, well organized, maintainable and efficient code. Con
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-<br>
-⭐⭐⭐⭐⭐⭐
-
-<br>
 
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 <a href="https://doc.rust-lang.org/book/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
 <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-<br>
-⭐⭐⭐
-
-<br>
-
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
-<br>
-⭐⭐
+
 
 <br>
 
@@ -56,28 +46,18 @@ Committed to writing clean, well organized, maintainable and efficient code. Con
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-<br>
-⭐⭐⭐⭐⭐⭐
-
-<br>
-
 <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
-<br>
-⭐⭐⭐⭐
-
 <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+
+
+
 <br>
-⭐⭐⭐
 
-
-<br>
-
-## (🫵🏻YOU) UI/UX
+## UI/UX
 <br>
 
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-<br>
-⭐⭐⭐⭐⭐⭐
+
 
 <br>
 
@@ -90,17 +70,11 @@ Committed to writing clean, well organized, maintainable and efficient code. Con
 <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
 <a href="https://trpc.io/"><img style="width: 48px;" src="https://trpc.io/img/logo.svg" alt="TRPC" /></a>
 <a href="https://www.postgresql.org.pl/"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
-<br>
-⭐⭐⭐⭐⭐
-
-<br>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
 <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-<br>
-⭐⭐⭐⭐
 
 <br><br>
 
@@ -109,11 +83,6 @@ Committed to writing clean, well organized, maintainable and efficient code. Con
 
 <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></a>
 <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
-<br>
-⭐⭐⭐⭐
-
-
-
 
 <br>
 
@@ -127,14 +96,10 @@ Committed to writing clean, well organized, maintainable and efficient code. Con
 <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Linux" /></a>
-<br />
-⭐⭐⭐⭐
-
 <br>
 
 ## ⌨️ OS
 <br>
-
 <a href="https://www.microsoft.com/en-en/windows/?r=1"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
 <a href="https://wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 <br>

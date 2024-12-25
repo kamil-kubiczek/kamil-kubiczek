@@ -1,4 +1,5 @@
-![Profile baner](https://github.com/user-attachments/assets/a82d36d1-c922-4ff6-aec4-2b127645f24f)
+![Profile baner](https://github.com/user-attachments/assets/e212300f-6c69-4fbd-9c48-2bfe6dd15742)
+
 
 > Passionate **fullstack web developer** with 3+ years of experience. 
 

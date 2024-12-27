@@ -5,7 +5,7 @@
 
 > One of authors of https://zsz.olesnica.pl/
 
->  Portfolio: https://kamil-kubiczek.vercel.app
+>  Portfolio: https://portfolio-young-kamilson.nuxt.dev/
 
 > ❓Status: ***Looking for job and opened for freelance projects***
 

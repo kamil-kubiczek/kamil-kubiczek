@@ -54,17 +54,10 @@ I’m mainly skilled in Vue and Nuxt ecosystem, React, REST APIs, TRPC, BaaS. I 
 
 <br>
 
-## UI/UX
-<br>
-
-<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-
-
-<br>
-
 ## ⚙️ Backend technologies
 <br>
 
+<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="Nest Js" /></a>
 <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 <a href="https://deno.com/"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
@@ -78,6 +71,16 @@ I’m mainly skilled in Vue and Nuxt ecosystem, React, REST APIs, TRPC, BaaS. I 
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 
 <br><br>
+
+## UI/UX
+<br>
+
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+
+
+<br>
+
+
 
 ## Testing
 <br>

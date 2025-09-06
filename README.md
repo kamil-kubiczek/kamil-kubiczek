@@ -13,7 +13,7 @@
 
 
 # Few words about me
-I’m 18 years old Polish IT high school student. Web development is my passion and work. In 2023 I passed INF-02 exam with 96% points.
+I’m 19 years old Polish IT high school student. Web development is my passion and work. In 2023 I passed INF-02 exam with 96% points.
 I’m mainly skilled in Vue and Nuxt ecosystem, React, REST APIs, TRPC, BaaS. I gained some knowledge about DevOps. I already worked with GitHub, Gitlab, ClickUp in Agile methodology and with similar tools. Also I gained some experience in UI/UX design on Figma.
 
 # Wanna contact me? 
